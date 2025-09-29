@@ -4,6 +4,8 @@ description: 'This resource contains information related to scaling laws and con
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/480c3d517e2e202b20c0f698530db196_MITESD_342S10_lec17.pdf
 file_size: 1089334
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'This resource contains information related to quantification of th
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/be29b1c73859e87382d4b297063f2ff2_MITESD_342S10_lec24.pdf
 file_size: 338884
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

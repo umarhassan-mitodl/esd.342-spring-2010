@@ -5,6 +5,8 @@ description: 'This resource contains information related to basic network proper
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/b2547b4ba1fe23c30eaac04db9649e88_MITESD_342S10_lec04.pdf
 file_size: 420486
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

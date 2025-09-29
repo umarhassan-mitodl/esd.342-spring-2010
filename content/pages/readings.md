@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the course textbook, a list of recommended
   texts for background reading, and the schedule of readings by session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -24,7 +26,7 @@ Agre, Philip E. "Hierarchy and History in Simon's "Architecture of Complexity.""
 
 Oltvai, Zoltan N., and Albert-Laszlo Barabasi. "Life's Complexity Pyramid." _Science_ 298 (2002): 763-764.
 
-"{{% resource_link "d7e6eb22-d036-4046-bf96-dca1ead4b3ad" "Network Science" %}}." Washington, DC: The National Academies Press, 2005. ISBN: 9780309653886.
+"[Network Science](http://www.nap.edu/catalog.php?record_id=11516)." Washington, DC: The National Academies Press, 2005. ISBN: 9780309653886.
 
 Readings by Session
 -------------------
@@ -71,9 +73,9 @@ Basic foundations for course emphasizing ways of thinking and biases
 
 _Six Degrees_, chapters 1 and 2.
 
-Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read sections I and II. ({{% resource_link "eb73fcca-0aa8-4226-8267-08a450b497b3" "PDF" %}})
+Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read sections I and II. ([PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
 
-Crawley, Edward, et al. "The Influence of Architecture in Engineering Systems." Cambridge, MA: MIT ESD Engineering Systems Monograph, March 2004. ({{% resource_link "14139dd1-7d68-4ad4-af49-922a2d205793" "PDF" %}})
+Crawley, Edward, et al. "The Influence of Architecture in Engineering Systems." Cambridge, MA: MIT ESD Engineering Systems Monograph, March 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/monograph/architecture-b.pdf))
 
 "Virtual Round Table on Ten Leading Questions for Network Research." _The European Phyiscal Journal_ _B_ 38 (2004): 143-145.
 
@@ -135,7 +137,7 @@ Basic network metrics and operations
 {{< tdopen >}}
 
 
-Mahadevan, Priya, et al. "{{% resource_link "bfa4d7d1-b335-4429-97b4-ae3380d33c48" "The Internet AS-Level Topology: Three Data Sources and One Definitive Metric" %}}." _ACM SIGCOMM Computer Communication Review_ 36, no. 1 (2006): 17-26.
+Mahadevan, Priya, et al. "[The Internet AS-Level Topology: Three Data Sources and One Definitive Metric](http://cseweb.ucsd.edu/~vahdat/papers/jdd-ccr.pdf)." _ACM SIGCOMM Computer Communication Review_ 36, no. 1 (2006): 17-26.
 
 Whitney, Daniel E. "Basic Network Metrics." Cambridge, MA: MIT Engineering Systems Division, 2008. ({{% resource_link 923947b0-d195-d26b-1eaa-1001b3396184 "PDF" %}})
 
@@ -153,7 +155,7 @@ Quantitative network fundamentals
 {{< tdopen >}}
 
 
-Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section III. ({{% resource_link "eb73fcca-0aa8-4226-8267-08a450b497b3" "PDF" %}})
+Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section III. ([PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
 
 _Six Degrees_, chapters 3 and 4.
 
@@ -205,7 +207,7 @@ Whitney, Daniel E. "Physical Limits to Modularity." Cambridge, MA: MIT Engineeri
 Network observational methods and quantitative metrics
 {{< tdclose >}}
 {{< tdopen >}}
-Whitney, Daniel E., and David Alderson. "Are Technological and Social Networks Really Different?" Paper presented at the International Conference on Complex Systems, Boston, MA, June 25-30, 2006. ({{% resource_link "85b54f89-608d-4f48-9a05-fe4822ec86b0" "PDF" %}})
+Whitney, Daniel E., and David Alderson. "Are Technological and Social Networks Really Different?" Paper presented at the International Conference on Complex Systems, Boston, MA, June 25-30, 2006. ([PDF](http://www.necsi.edu/events/iccs6/papers/093d7139f769f5c9d1984fc225af.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,9 +235,9 @@ Random networks
 
 _Six Degrees_, chapters 6, 7, and 8.
 
-Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section IV. ({{% resource_link "eb73fcca-0aa8-4226-8267-08a450b497b3" "PDF" %}})
+Newman, M. E. J. "The Structure and Function of Complex Networks." _SIAM Review_ 45, no. 2 (2003): 167-256. Read section IV. ([PDF](http://www-personal.umich.edu/~mejn/courses/2004/cscs535/review.pdf))
 
-Watts, Duncan. "{{% resource_link "22c6b744-26c7-4bd0-ba1b-b1320c16ee33" "A Simple Model of Global Cascades on Random Networks" %}}." _PNAS_ 99, no. 9 (2002): 5766-5771.
+Watts, Duncan. "[A Simple Model of Global Cascades on Random Networks](http://www.pnas.org/content/99/9/5766.full?sid=0216c8b0-e17a-47f2-9665-4da7f5b0a7d6)." _PNAS_ 99, no. 9 (2002): 5766-5771.
 
 
 {{< tdclose >}}
@@ -256,9 +258,9 @@ Milo, R., S. Shen-Orr, et al. "Network Motifs: Simple Building Blocks of Complex
 ###   
 Optional
 
-Itzkovitz, Shalev, et al. "Coarse-Graining and Self-Dissimilarity of Complex Networks." _Physical Review_ _E_ 71 (2005): 016127. ({{% resource_link "f09618f3-3413-4f55-982c-ff16ff16c33c" "PDF" %}})
+Itzkovitz, Shalev, et al. "Coarse-Graining and Self-Dissimilarity of Complex Networks." _Physical Review_ _E_ 71 (2005): 016127. ([PDF](http://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/coarsegraining.pdf))
 
-Newman, M. E. J., and M. Girvan. "Finding and Evaluating Community Structure in Networks." _Physical Review_ _E_ 69 (2004): 026113. ({{% resource_link "0ba93eff-43f1-4712-a60d-de0384a571ff" "PDF - 1.7MB" %}})
+Newman, M. E. J., and M. Girvan. "Finding and Evaluating Community Structure in Networks." _Physical Review_ _E_ 69 (2004): 026113. ([PDF - 1.7MB](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.69.026113))
 
 Hsieh, Mo-Han, and Christopher L. Magee. "An Algorithm and Metric for Network Decomposition from Similarity Matrices: Application to Positional Analysis." _Social Networks_ 30 (2008): 146-158.
 
@@ -284,7 +286,7 @@ _Six Degrees_, chapter 5.
 
 ### Optional
 
-Kleinberg, Jon. "The Small-World Phenomenon: An Algorithmic Perspective." Proceedings of the 32nd ACM Symposium on Theory of Computing, 2000. ({{% resource_link "aa2b16a1-1485-4bf6-ad4b-fd7964d21124" "PDF" %}})
+Kleinberg, Jon. "The Small-World Phenomenon: An Algorithmic Perspective." Proceedings of the 32nd ACM Symposium on Theory of Computing, 2000. ([PDF](http://www.cs.cornell.edu/home/kleinber/swn.pdf))
 
 
 {{< tdclose >}}
@@ -318,7 +320,7 @@ West, Geoffrey, James Brown, and Brian Enquist. "A General Model for the Origin 
 
 ### Optional
 
-Chave, Jerome, and Simon Levin. "Scale and Scaling in Ecological and Economic Systems." _Environmental and Resource Economics_ 26, no. 4 (2003): 527-557. ({{% resource_link "f9b0ff3f-617e-4063-ae9b-5c3d13a86317" "PDF" %}})
+Chave, Jerome, and Simon Levin. "Scale and Scaling in Ecological and Economic Systems." _Environmental and Resource Economics_ 26, no. 4 (2003): 527-557. ([PDF](https://link.springer.com/article/10.1023/B:EARE.0000007348.42742.49))
 
 
 {{< tdclose >}}
@@ -354,9 +356,9 @@ Advanced models of technological systems
 {{< tdopen >}}
 
 
-Guimera, R., S. Mossa, et al. "{{% resource_link "fd22cf8c-5c27-445e-9e44-94ceb585ad54" "The Worldwide Air Transportation Network: Anomalous Centrality, Community Structure, and Cities' Global Roles" %}}." _PNAS_ 102, no. 22 (2005): 7794-7799.
+Guimera, R., S. Mossa, et al. "[The Worldwide Air Transportation Network: Anomalous Centrality, Community Structure, and Cities' Global Roles](http://www.pnas.org/content/102/22/7794.short)." _PNAS_ 102, no. 22 (2005): 7794-7799.
 
-Doyle, John, David Alderson, et al. "{{% resource_link "74bbe232-31b4-4440-9348-1acedee820bb" "The \"Robust Yet Fragile\" Nature of the Internet" %}}." _PNAS_ 102, no. 41 (2005): 14497-14502.
+Doyle, John, David Alderson, et al. "[The "Robust Yet Fragile" Nature of the Internet](http://www.pnas.org/content/102/41/14497.full.pdf+html?sid=5195266f-0f3c-4d2c-ae69-770f5b236d65)." _PNAS_ 102, no. 41 (2005): 14497-14502.
 
 
 {{< tdclose >}}
@@ -372,7 +374,7 @@ Modeling organizational architecture
 {{< tdopen >}}
 
 
-Dodds, Peter Sheridan, Duncan Watts, and Charles Sabel. "{{% resource_link "a69b374e-4de0-4edb-ab3c-5892d1205a4d" "Information Exchange and the Robustness of Organizational Networks" %}}." _PNAS_ 100, no. 21 (2003): 12516-12521.
+Dodds, Peter Sheridan, Duncan Watts, and Charles Sabel. "[Information Exchange and the Robustness of Organizational Networks](http://www.pnas.org/content/100/21/12516.full?sid=16bed606-9ed5-4220-a469-05381b1aff97)." _PNAS_ 100, no. 21 (2003): 12516-12521.
 
   
 
@@ -456,7 +458,7 @@ Arbesman, Samuel, Jon Kleinberg, and Steven Strogatz. "Superlinear Scaling for I
 
 ### _Optional_
 
-Bettencourt, Luis, et al. "{{% resource_link "2a6b6d9e-d74d-4426-8ae9-123bfb8bfa21" "Growth, Innovation, Scaling, and the Pace of Life in Cities" %}}." _PNAS_ 104, no. 17 (2007): 7301-7306.
+Bettencourt, Luis, et al. "[Growth, Innovation, Scaling, and the Pace of Life in Cities](http://www.pnas.org/content/104/17/7301.full)." _PNAS_ 104, no. 17 (2007): 7301-7306.
 
 Magee, Christopher L. "The Role of Materials Innovation in Overall Technological Development." _Journal of Management_ 62, no. 3 (2010): 20-24.
 

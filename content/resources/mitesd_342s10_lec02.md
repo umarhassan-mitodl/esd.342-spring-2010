@@ -4,6 +4,8 @@ description: 'This resource contains terms and definitions for engineering syste
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/ee979655d16ddc59f41f9986a76d952e_MITESD_342S10_lec02.pdf
 file_size: 153486
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

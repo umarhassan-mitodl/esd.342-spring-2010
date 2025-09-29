@@ -5,6 +5,8 @@ description: This resource contains information on UCINET basics, the UCINET env
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/df0bdfe5c3e48c5e09bd5ba681558ffb_ucinet_slides.pdf
 file_size: 3030349
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

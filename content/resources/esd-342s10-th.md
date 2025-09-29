@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/4698ee8ffa9e2314717257ccd636a078_esd-342s10-th.jpg
 file_size: 20239
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This network map depicts the research collaboration connections, or "neighborhood,"
     for a contributor to the International Panel on Climate Change (IPCC). (Image

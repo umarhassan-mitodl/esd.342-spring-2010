@@ -2,6 +2,8 @@
 content_type: page
 description: This page presents tutorials, background information, and example data
   for the software tools used in the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -36,20 +38,20 @@ Note: always test a routine on a simple example for which you know already what 
 Mfinder
 -------
 
-Mfinder is a network motifs detection tool. Software, source code, a manual and supporting materials are available from {{% resource_link "dcbf4a2c-f2e5-462d-b5b5-ddacd92d7fe0" "Uri Alon's homepage" %}}, select the "Network Motif Software" link.
+Mfinder is a network motifs detection tool. Software, source code, a manual and supporting materials are available from [Uri Alon's homepage](http://www.weizmann.ac.il/mcb/UriAlon/), select the "Network Motif Software" link.
 
 Pajek
 -----
 
-{{% resource_link "26103e72-a970-4a16-aaf8-f8d16b71b5b8" "Pajek" %}} (Program for Large Network Analysis) is a free software package.
+[Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) (Program for Large Network Analysis) is a free software package.
 
-*   Pajek Manual ({{% resource_link "c17a2893-cfd1-43d0-ab56-875b8bf534ae" "PDF" %}})
-*   {{% resource_link "9dc119c2-69d1-42a1-b11b-8635daf3170d" "Pajek Tutorials" %}}
+*   Pajek Manual ([PDF](http://vlado.fmf.uni-lj.si/pub/networks/pajek/doc/pajekman.pdf))
+*   [Pajek Tutorials](http://vlado.fmf.uni-lj.si/pub/networks/pajek/howto.htm)
 
 UCINET
 ------
 
-{{% resource_link "759ac936-2c55-4a9b-904d-120626d69032" "UCINET" %}} is a software package for the analysis of social network data as well as other 1-mode and 2-mode data.
+[UCINET](http://www.analytictech.com/ucinet/ucinet.htm) is a software package for the analysis of social network data as well as other 1-mode and 2-mode data.
 
 *   UCINET Tutorial Slides ({{% resource_link df0bdfe5-c3e4-8c5e-09bd-5ba681558ffb "PDF - 2.9 MB" %}}) (Courtesy of Mo-Han Hsieh. Used with permission.)
-*   This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. {{% resource_link "ede2094d-c3b4-4119-8ece-fe7ae0fce1a6" "_Introduction to social network methods_" %}}.
+*   This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. [_Introduction to social network methods_](http://faculty.ucr.edu/~hanneman/nettext/).
