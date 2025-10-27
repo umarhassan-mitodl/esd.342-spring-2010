@@ -4,8 +4,6 @@ description: 'The ZIP file contains: 2 .m files'
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/184928a9b83b127d2b5ab4833c447492_prsn_deg_corelt.zip
 file_size: 865
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

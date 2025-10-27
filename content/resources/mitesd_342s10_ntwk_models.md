@@ -5,8 +5,6 @@ description: 'This resource contains information related to network models and b
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/7495b1cd93b6af9a2bf08c530e3cebeb_MITESD_342S10_ntwk_models.pdf
 file_size: 219829
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: 'This resource contains information on MatLab basics, working examp
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/b493a7216fe363cf43ad9252c79de7fd_matlab_slides.pdf
 file_size: 399154
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

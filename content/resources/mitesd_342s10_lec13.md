@@ -4,8 +4,6 @@ description: This resource contains information about random networks.
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/2494b88060260e2f9661bea27ef072e9_MITESD_342S10_lec13.pdf
 file_size: 1467131
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

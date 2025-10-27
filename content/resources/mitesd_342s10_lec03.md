@@ -4,8 +4,6 @@ description: 'This resource contains information related to networks in system a
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/f7adb9afad12f2ea1d8bb81a476b7969_MITESD_342S10_lec03.pdf
 file_size: 1181941
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

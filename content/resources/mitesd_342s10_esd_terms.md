@@ -4,8 +4,6 @@ description: 'This resource contains information related to the ESD symposium co
 file: /courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010/5f133311a05851261aab12220f0abb7a_MITESD_342S10_ESD_terms.pdf
 file_size: 61747
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
